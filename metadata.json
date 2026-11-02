@@ -1,0 +1,6 @@
+{
+  "name": "Shyam Building Material, Silwani",
+  "description": "Premier construction, cement, TMT steel, hardware, sanitaryware, and agricultural equipment supplier in Silwani, District Raisen, MP. Trusted by builders and farmers since 2000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
